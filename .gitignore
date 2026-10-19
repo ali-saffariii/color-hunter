@@ -1,0 +1,5 @@
+# the license signing key must never be published
+private-key*.json
+*.private.json
+node_modules/
+__pycache__/
